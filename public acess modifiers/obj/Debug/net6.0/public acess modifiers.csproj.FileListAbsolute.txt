@@ -1,0 +1,15 @@
+D:\c# code\public acess modifiers\public acess modifiers\bin\Debug\net6.0\public acess modifiers.exe
+D:\c# code\public acess modifiers\public acess modifiers\bin\Debug\net6.0\public acess modifiers.deps.json
+D:\c# code\public acess modifiers\public acess modifiers\bin\Debug\net6.0\public acess modifiers.runtimeconfig.json
+D:\c# code\public acess modifiers\public acess modifiers\bin\Debug\net6.0\public acess modifiers.dll
+D:\c# code\public acess modifiers\public acess modifiers\bin\Debug\net6.0\public acess modifiers.pdb
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\public acess modifiers.csproj.AssemblyReference.cache
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\public acess modifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\public acess modifiers.AssemblyInfoInputs.cache
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\public acess modifiers.AssemblyInfo.cs
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\public acess modifiers.csproj.CoreCompileInputs.cache
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\public acess modifiers.dll
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\refint\public acess modifiers.dll
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\public acess modifiers.pdb
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\public acess modifiers.genruntimeconfig.cache
+D:\c# code\public acess modifiers\public acess modifiers\obj\Debug\net6.0\ref\public acess modifiers.dll
